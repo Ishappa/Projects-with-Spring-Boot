@@ -1,0 +1,3 @@
+->Create a Project with Jpa and web dependencies.
+->go to website and search Maven Repository and copy mysql connector and add into pom.xml.
+->
